@@ -24,6 +24,8 @@ Kobayashi Kazuhiro (kzhrk)
 状態管理のフレームワーク。  
 Reactの状態管理で主に使われるが、他のフレームワークとの併用も可能。
 
+![flowchart](https://user-images.githubusercontent.com/548508/45066232-65237280-b0f8-11e8-87a1-d2699071c4cb.png)
+
 ---
 
 ## Redux三原則
