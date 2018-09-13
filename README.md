@@ -579,6 +579,12 @@ export default class Tab {
 
 ---
 
+## サンプル
+
+[kzhrk-sandbox/redux-customevent-module](https://github.com/kzhrk-sandbox/redux-customevent-module)
+
+---
+
 ## redux + CustomEventで実装した所感
 
 reduxにページ内のstateを持たせることで、module間でネーム変数参照を行う必要がなくなってmoduleの疎結合が実現できた。  
